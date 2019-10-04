@@ -6,6 +6,7 @@
 ### 1. cvičení - BKC-DE2
 
 *Tohle je procvičení písma Italic*
+
 Detail předmětu na [VUT](www.vutbr.cz)
 
 Zopakuj si:
